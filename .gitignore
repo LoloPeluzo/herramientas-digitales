@@ -14,3 +14,9 @@ Thumbs.db
 
 # ATL (local AI config)
 .atl/
+
+# Wrangler local
+.wrangler/
+
+# Source versions (deployed via index.html)
+herramientas_digitales_jornada_v*.html
